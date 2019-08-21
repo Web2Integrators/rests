@@ -13,6 +13,9 @@
     },
     "resto": {
       "tags": []
+    },
+    "typeahead": {
+      "tags": []
     }
   }
 }
