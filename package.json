@@ -38,9 +38,9 @@
     "@angular/platform-browser": "^8.0.0",
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/router": "^8.0.0",
-    "core-js": "^2.5.4",
-    "rxjs": "~6.4.0",
-    "zone.js": "^0.9.1"
+    "core-js": "^3.2.1",
+    "rxjs": "~6.5.2",
+    "zone.js": "^0.10.2"
   },
   "devDependencies": {
     "@angular/cli": "8.2.2",
@@ -54,13 +54,13 @@
     "prettier": "1.18.2",
     "@angular/compiler-cli": "^8.0.0",
     "@angular/language-service": "^8.0.0",
-    "@angular-devkit/build-angular": "^0.800.1",
-    "codelyzer": "~5.0.1",
-    "jest-preset-angular": "7.0.0",
+    "@angular-devkit/build-angular": "^0.802.2",
+    "codelyzer": "~5.1.0",
+    "jest-preset-angular": "7.1.1",
     "@nrwl/jest": "8.4.12",
-    "jest": "24.1.0",
-    "@types/jest": "24.0.9",
-    "ts-jest": "24.0.0",
+    "jest": "24.9.0",
+    "@types/jest": "24.0.18",
+    "ts-jest": "24.0.2",
     "cypress": "3.4.1",
     "@nrwl/cypress": "8.4.12"
   }
